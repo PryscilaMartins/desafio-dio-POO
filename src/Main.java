@@ -45,7 +45,7 @@ publ/**
         Dev devPryscila = new Dev();
         devPryscila.setNome("Pryscila");
         devPryscila.inscreverBootcamp(bootcamp);
-        System.out.println("Conteudos inscritos" + devCamila.getConteudosInscritos());
+        System.out.println("Conteudos inscritos" + devPryscila.getConteudosInscritos());
 
         Dev devJoao = new Dev();
         devJoao.setNome("Joao");
